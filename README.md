@@ -1,7 +1,7 @@
 - 👋 Hi, I’m 杜笑涵
 - 👀 I’m interested in 羽毛球
 - 🌱 I’m currently learning 算法
-- 💞️ I’m looking to collaborate on 大佬
+- 💞️ I’m looking to collaborate on 线下
 - 📫 How to reach me 别
 - 😄 Pronouns: 呵
 - ⚡ Fun fact: 呵
