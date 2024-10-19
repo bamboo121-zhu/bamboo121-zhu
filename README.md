@@ -21,12 +21,13 @@
 健康
 ####
 四、结束[^2]
-
+详细请点[这里][haha][^3]
 
 
 [^2]:当个乐子看得了
 [^1]:人的一生就是做牛做马的一生
-
+[haha]:https://www.baidu.com/?tn=15007414_8_dg
+[^3]:有就行了
 <!---
 bamboo121-zhu/bamboo121-zhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
