@@ -1,10 +1,31 @@
-- 👋 Hi, I’m 杜笑涵
-- 👀 I’m interested in 羽毛球
-- 🌱 I’m currently learning 算法
-- 💞️ I’m looking to collaborate on 线下
-- 📫 How to reach me 别
-- 😄 Pronouns: 呵
-- ⚡ Fun fact: 呵
+#
+<center><font face="楷体" size=56>自我介绍</center>
+
+##
+<center><font face="仿宋" size=6 font color=orange>杜笑涵</font></center>
+
+ ###
+   - [ ] 人
+   - [x] 牛马[^1]
+####
+一、性格
+#####
+<font size=6>像牛一样温顺，像马一样能干</font>
+####
+二、爱好
+#####
+羽毛球
+####
+三、心理
+#####
+健康
+####
+四、结束[^2]
+
+
+
+[^2]:当个乐子看得了
+[^1]:人的一生就是做牛做马的一生
 
 <!---
 bamboo121-zhu/bamboo121-zhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
