@@ -22,12 +22,12 @@
 ####
 四、结束[^2]
 #####
-详细请点链接:[https://www.baidu.com/?tn=15007414_8_dg]
+详细请点链接:[https://www.baidu.com/?tn=15007414_8_dg][^3]
 
 
 [^2]:当个乐子看得了
 [^1]:人的一生就是做牛做马的一生
-
+[^3]:有就行了，里面没东西的
 
 <!---
 bamboo121-zhu/bamboo121-zhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
